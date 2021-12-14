@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ola, estou modificando o meu perfil, pra ficar bunitinhu 😁
 
 <!--
 **IgorCX2/IgorCX2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
