@@ -1,6 +1,6 @@
 ### Ola, estou modificando o meu perfil, pra ficar bunitinhu 😁
 
-  <img alt="IgorGif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/572825603942645762/920386284348907590/5eeea355389655.59822ff824b72.gif">
+  <img alt="IgorGif" width="100%" style="border-radius:50px;" src="https://im2.ezgif.com/tmp/ezgif-2-c6197d2e13.gif">
 
 <!--
 **IgorCX2/IgorCX2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
