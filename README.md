@@ -1,17 +1,30 @@
 ### Ola, estou modificando o meu perfil, pra ficar bunitinhu 😁
-<a href="https://github.com/IgorCX2/" target="blank"><img alt="IgorGif" width="100%" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/572825603942645762/920819395683569694/ezgif-5-26e6b8f37b.gif"></a>
+<a href="https://github.com/IgorCX2/" target="blank">
+  <img alt="IgorGif" width="100%" src="https://cdn.discordapp.com/attachments/572825603942645762/920819395683569694/ezgif-5-26e6b8f37b.gif">
+</a>
 
-<!--
-**IgorCX2/IgorCX2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+##### 🎓 Linguagens:
 
-Here are some ideas to get you started:
+<div>
+  <img align="right" height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCX2&layout=compact&theme=dracula&langs_count=7&title_color=fff&custom_title=Linguagens Mais Usadas"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <img alt="Html" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img alt="Css" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img alt="Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img alt="PhP" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img  lt="MySql" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+
+##### 📚 Aprendendo:
+<div>
+    <img alt="Next" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+    <img alt="Node" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img alt="React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+
+
+##
+##### Sobre mim
