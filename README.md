@@ -7,6 +7,8 @@
 #### 🎓 Linguagens:
 
 <div>
+    <img align="right" height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCX2&layout=compact&hide_border=yes&title_color=000&langs_count=7&custom_title=Linguagens Mais Usadas"/>
+
 </div>
 
 <div>
