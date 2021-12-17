@@ -4,10 +4,9 @@
 </a>
 
 ##
-##### 🎓 Linguagens:
+#### 🎓 Linguagens:
 
 <div>
-  <img align="right" height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCX2&layout=compact&theme=dracula&langs_count=7&title_color=fff&custom_title=Linguagens Mais Usadas"/>
 </div>
 
 <div>
@@ -18,7 +17,7 @@
     <img  lt="MySql" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-##### 📚 Aprendendo:
+#### 📚 Aprendendo:
 <div>
     <img alt="Next" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
     <img alt="Node" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -27,4 +26,4 @@
 
 
 ##
-##### Sobre mim
+#### Sobre mim
