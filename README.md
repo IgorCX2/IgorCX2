@@ -5,7 +5,7 @@
 
 ##
 <div align="right">
-    <img align="right" height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCX2&layout=compact&hide_border=yes&theme=default&title_color=000&langs_count=7&custom_title=Linguagens Mais Usadas"/>
+    <img align="right" height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCX2&layout=compact&hide_border=yes&theme=graywhite&langs_count=7&custom_title=Linguagens Mais Usadas"/>
 </div>
 
 #### 🎓 Linguagens:
