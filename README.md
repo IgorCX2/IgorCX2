@@ -4,12 +4,13 @@
 </a>
 
 ##
+<div align="right">
+    <img align="right" height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCX2&layout=compact&hide_border=yes&theme=default&title_color=000&langs_count=7&custom_title=Linguagens Mais Usadas"/>
+</div>
+
 #### 🎓 Linguagens:
 
-<div>
-    <img align="right" height="143em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCX2&layout=compact&hide_border=yes&title_color=000&langs_count=7&custom_title=Linguagens Mais Usadas"/>
 
-</div>
 
 <div>
     <img alt="Html" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
