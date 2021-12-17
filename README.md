@@ -1,4 +1,3 @@
-### Ola, estou modificando o meu perfil, pra ficar bunitinhu 😁
 <a href="https://github.com/IgorCX2/" target="blank">
   <img alt="IgorGif" width="100%" src="https://cdn.discordapp.com/attachments/572825603942645762/920819395683569694/ezgif-5-26e6b8f37b.gif">
 </a>
@@ -30,3 +29,4 @@
 
 ##
 #### Sobre mim
+Ola, estou modificando o meu perfil, pra ficar bunitinhu 😁
