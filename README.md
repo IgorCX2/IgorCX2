@@ -17,16 +17,19 @@
     <img alt="Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img alt="PhP" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img  lt="MySql" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-
-#### 📚 Aprendendo:
-<div>
     <img alt="Next" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
     <img alt="Node" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img alt="React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
+#### 📚 Aprendendo:
+<div>
+  Em pensamento =)
+</div>
+
 
 ##
 #### Sobre mim
-Ola, estou modificando o meu perfil, pra ficar bunitinhu 😁
+Sou apaixonado por tecnologia, e acredito que ela em cooperação com o futuro, gera o progresso da nação. Possuo diversos cursos nas áreas de tecnologia, bem como conhecimentos em vetores, edição de vídeos e outras áreas relacionadas!Sempre busco aprender mais e estar atualizado com as últimas tendências!
+
+
